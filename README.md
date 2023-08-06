@@ -1,2 +1,2 @@
 # portfolio
-My Portfolio with wed devolpement
+My Portfolio with web developement
